@@ -123,7 +123,7 @@ A collection of awesome things regarding React ecosystem.
 #### React Tutorials
 
 ##### React General Tutorials
-* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html) ✔
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component) ✔
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans) ✔
 * [The ReactJS Bible](https://www.stanleycyang.com/tutorials/the-reactjs-bible) ✔
@@ -132,7 +132,7 @@ A collection of awesome things regarding React ecosystem.
 * [Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/) ❌
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn) ✔
 * [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) ✔
-* [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f)🔃
+* [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f) ✔
 * [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459) 🔃
 * [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/) ❌
 
