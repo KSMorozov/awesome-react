@@ -133,14 +133,14 @@ A collection of awesome things regarding React ecosystem.
 * [Learn React by building the Hacker News front page](https://github.com/mking/react-hn) ✔
 * [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) ✔
 * [The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f) ✔
-* [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459) 🔃
+* [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)  ✔
 * [Building Isomorphic Webapps on the JVM with React.js and Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/) ❌
 
-##### Building robust web apps with React
-* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
-* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
-* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
-* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+##### Building robust web apps with React  🔃
+* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html) 🔃
+* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html) 🔃
+* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html) 🔃
+* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html) 🔃
 
 ##### Comprehensive Guide to Building Apps with React
 * [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
