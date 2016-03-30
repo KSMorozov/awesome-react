@@ -122,7 +122,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Tutorials
 
-##### React General Tutorials
+##### React General Tutorials  ✔
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html) ✔
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component) ✔
 * [React.js Koans: Practical exercises that will help you learn React.js from square one](https://github.com/arkency/reactjs_koans) ✔
@@ -142,17 +142,17 @@ A collection of awesome things regarding React ecosystem.
 * [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html) 🔃
 * [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html) 🔃
 
-##### Comprehensive Guide to Building Apps with React
-* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-* [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
-* [Part 3 - Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
+##### Comprehensive Guide to Building Apps with React ✔
+* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) ✔
+* [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/) ✔
+* [Part 3 - Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/) ✔
 
-##### Scotch.io React tutorials series
-* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
-* [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
-* [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
-* [Make a Mobile App with ReactJS in 30 Minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
+##### Scotch.io React tutorials series 🔃
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts) 🔃
+* [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js) 🔃
+* [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture) 🔃
+* [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux) 🔃
+* [Make a Mobile App with ReactJS in 30 Minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes) 🔃
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -170,14 +170,14 @@ A collection of awesome things regarding React ecosystem.
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
-##### React and Meteor
+##### React and Meteor ❌
 * [React for Meteor developers](http://blog.differential.com/react-for-meteor-developers/)
 
-##### React and Backbone
+##### React and Backbone ❌
 * [Using React components as Backbone Views](http://www.thomasboyt.com/2013/12/17/using-reactjs-as-a-backbone-view.html)
 * [Chicago Backbone Meetup: React + Backbone slides](https://speakerdeck.com/larsonjj/chicago-backbone-meetup-react-plus-backbone)
 
-##### React and Angular
+##### React and Angular  ❌
 * [NgReact - React Components in Angular](http://davidandsuzi.com/ngreact-react-components-in-angular/)
 * [ng-React Update - React 0.9 and Angular Track By](http://davidandsuzi.com/ngreact-update/)
 * [Using React for Faster Renders and Isomosphism in Angular](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
@@ -193,12 +193,12 @@ A collection of awesome things regarding React ecosystem.
 * [Bootstrap TabbedArea component with React.js](http://clozeit.wordpress.com/2014/01/13/34/)
 * [Bootstrap forms using React.js](http://clozeit.wordpress.com/2014/01/13/bootstrap-forms-using-react-js/)
 
-##### React and ClojureScript
+##### React and ClojureScript  ❌
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
 * [A Reagent Framework For Writing SPAs](https://github.com/Day8/re-frame)
 
-##### React and CoffeeScript
+##### React and CoffeeScript  ❌
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
 * [React patterns - Mostly reasonable patterns for writing React in CoffeeScript](https://github.com/planningcenter/react-patterns)
 
